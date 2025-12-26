@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Rasa";
+  src: url(../fonts/Rasa.ttf);
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Kodchasan";
+  src: url(../fonts/Kodchasan.ttf);
+  font-weight: 400;
+}
